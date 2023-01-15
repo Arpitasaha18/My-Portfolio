@@ -25,10 +25,10 @@ section{
     border: 0;
 }
 /* Header and nav style */
-nav{
+.header nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
